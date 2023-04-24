@@ -1,0 +1,44 @@
+* {
+    font-family: 'Merriweather', sans-serif;
+    color: white;
+    margin-left: 0;
+    margin-right: 0;
+    font-size: 20px;
+}
+body{
+    background-color: #29387f;
+    margin-top: 0;
+}
+header{
+    background-color: white;
+    margin-top: 0;
+}
+#form{
+    text-align: center;
+}
+#p1{
+    margin-left: 501px;
+    margin-right: 501px;
+}
+#logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.in{
+    color: black;
+}
+h1{
+    font-size: 40px;
+}
+#div1 {
+    margin: auto;
+	width: 40%;
+	padding: 30px;
+	background-color: rgb(18, 22, 71);
+	border-radius: 80px;
+}
+input[type="radio"] {
+    margin-top: -1px;
+    vertical-align: middle;
+  }
